@@ -1,2 +1,2 @@
-# projects
+# Ajax Project
 Gonna explore more
